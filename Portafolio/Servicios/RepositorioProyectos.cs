@@ -22,10 +22,10 @@ namespace Portafolio.Servicios
 
                 new ProyectoDTO
             {
-             Titulo = "New York Times",
-             Descripcion = "Página de noticias en React",
-             Link = "https://nytimes.com",
-             ImagenURL="/imagenes/nyt.png"
+             Titulo = "Aplicación Manejo de Presupuestos",
+             Descripcion = "Aplicación de manejo de presupuestos con ASP.NET, HTML, CSS, Bootstrap y SQL Server Management Studio.",
+             Link = "https://github.com/Lucy-cs/ManejoPresupuesto",
+             ImagenURL="/imagenes/PManejoPresupuesto.png"
             },
 
                 new ProyectoDTO

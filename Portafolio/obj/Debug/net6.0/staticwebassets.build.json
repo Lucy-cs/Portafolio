@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Li2WKeiS+wysEfgEOkxyQO8ncXiii9VWsrBBH+Ooy7A=",
+  "Hash": "BRl+jKm0an1Vqe5sSQTYKlNGDUWRSyI7xDqbASFF2ec=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\paginaWebVacasFelices.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\PManejoPresupuesto.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/PManejoPresupuesto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\PManejoPresupuesto.png"
     },
     {
       "Identity": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.PNG",

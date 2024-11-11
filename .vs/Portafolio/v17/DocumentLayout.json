@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -11,20 +23,16 @@
       "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\.gitattributes||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55DCC1E3-ECA4-4273-B0DB-D169D8582B88}|Portafolio\\Portafolio.csproj|c:\\users\\lucy_\\source\\repos\\portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -82,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,32 +118,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Portafolio\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\appsettings.Development.json",
-              "RelativeToolTip": "Portafolio\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T18:30:42.188Z"
+              "DocumentIndex": 2,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitattributes",
+              "RelativeDocumentMoniker": "Portafolio\\.gitattributes",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitattributes",
+              "RelativeToolTip": "Portafolio\\.gitattributes",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-11T19:09:52.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitignore",
               "RelativeDocumentMoniker": "Portafolio\\.gitignore",
               "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitignore",
               "RelativeToolTip": "Portafolio\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-11T18:22:40.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Portafolio\\Properties\\launchSettings.json",
@@ -151,31 +156,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitattributes",
-              "RelativeDocumentMoniker": "Portafolio\\.gitattributes",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitattributes",
-              "RelativeToolTip": "Portafolio\\.gitattributes",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-11T14:29:28.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RepositorioProyectos.cs",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
               "RelativeDocumentMoniker": "Portafolio\\Servicios\\RepositorioProyectos.cs",
               "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
               "RelativeToolTip": "Portafolio\\Servicios\\RepositorioProyectos.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwBIAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:32:56.242Z"
+              "WhenOpened": "2024-11-07T11:32:56.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
@@ -187,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "_Presentacion.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
@@ -195,11 +189,49 @@
               "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T21:24:57.29Z"
+              "WhenOpened": "2024-11-06T21:24:57.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Program.cs",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
+              "RelativeToolTip": "Portafolio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:59:10.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Portafolio\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\appsettings.Development.json",
+              "RelativeToolTip": "Portafolio\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T18:30:42.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitattributes",
+              "RelativeDocumentMoniker": "Portafolio\\.gitattributes",
+              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\.gitattributes",
+              "RelativeToolTip": "Portafolio\\.gitattributes",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-11T14:29:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
@@ -211,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_Habilidades.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
@@ -223,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ContactoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Models\\ContactoViewModel.cs",
               "RelativeDocumentMoniker": "Portafolio\\Models\\ContactoViewModel.cs",
@@ -235,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
               "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\custom.css",
@@ -247,19 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Program.cs",
-              "ToolTip": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
-              "RelativeToolTip": "Portafolio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:59:10.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Contacto.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Contacto.cshtml",
@@ -271,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_ListadoProyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
@@ -283,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_SeccionProyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
@@ -295,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Portafolio\\Models\\ErrorViewModel.cs",
@@ -307,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ServicioEmailSendGrid.cs",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Servicios\\ServicioEmailSendGrid.cs",
               "RelativeDocumentMoniker": "Portafolio\\Servicios\\ServicioEmailSendGrid.cs",
@@ -319,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Gracias.cshtml",
               "DocumentMoniker": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Gracias.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Gracias.cshtml",

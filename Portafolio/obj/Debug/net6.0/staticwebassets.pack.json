@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\PManejoPresupuesto.png",
+      "PackagePath": "staticwebassets\\imagenes\\PManejoPresupuesto.png"
+    },
+    {
       "Id": "C:\\Users\\lucy_\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Tconsulting.png",
       "PackagePath": "staticwebassets\\imagenes\\Tconsulting.png"
     },
